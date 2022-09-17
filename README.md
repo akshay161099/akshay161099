@@ -8,4 +8,4 @@ Stats->
 
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay161099&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay161099&layout=compact)](https://github.com/akshay161099/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay161099&langs_count=8)](https://github.com/akshay161099/github-readme-stats)
