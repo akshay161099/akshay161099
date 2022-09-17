@@ -7,3 +7,5 @@ My name is Akshay, i'm a software engineer and open-source creator at nights. I'
 Stats->
 
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay161099&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay161099&layout=compact)](https://github.com/akshay161099/github-readme-stats)
