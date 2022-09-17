@@ -26,3 +26,8 @@ My name is Akshay, i'm a software engineer and open-source creator at nights. I'
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=akshay1610" width="400"/>
 </a>
 -->
+
+### Stuff i know ->
+1. Java   2. Python   3. JavaSciprt  4. C   5. SQL   6. React   
+7. MySQL  8. MongoDB  9. HTML   10. OJET  11. Helidon   12. NodeJs
+
