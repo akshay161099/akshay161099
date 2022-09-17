@@ -1,5 +1,7 @@
 ### Hi there 👋
+My name is Akshay, i'm a software engineer and open-source creator at nights. I'm excited about web technologies 🧑‍💻, SaaS business 💼, strategy ♟️, gaming 🎮, working out , and reading books.
 
+🔭 I’m currently working on .
 <!--
 **akshay161099/akshay161099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
