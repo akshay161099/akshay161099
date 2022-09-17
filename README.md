@@ -20,3 +20,6 @@ My name is Akshay, i'm a software engineer and open-source creator at nights. I'
 ### Languages used ->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay161099&langs_count=8)](https://github.com/akshay161099/github-readme-stats)
+
+Leetcode Stats ->
+![Leetcode Stats](https://leetcard.akshay1610.cool/JacobLinCool)
