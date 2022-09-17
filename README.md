@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/akshay161099/count.svg" />
 </p>
 
 My name is Akshay, i'm a software engineer and open-source creator at nights. I'm excited about web technologies 🧑‍💻, SaaS business 💼, strategy ♟️, gaming 🎮, working out , and reading books.
