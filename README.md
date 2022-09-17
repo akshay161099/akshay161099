@@ -71,5 +71,3 @@ My name is Akshay, i'm a software engineer and open-source creator at nights. I'
 
 <br />
 <br />
-
----
